@@ -1,4 +1,4 @@
-# Pipeline de Inteligencia de Mercado e Analise de Redes de Jogos
+# Filtro-de-Popularidade---Steam-IGD
 
 Este repositorio contem um pipeline de engenharia de dados em Python voltado para a extracao, processamento, analise estatistica (Bayesiana) e modelagem de grafos de similaridade de jogos com base em metadados da Steam, IGDB e avaliacoes de usuarios. O projeto gera visualizacoes de redes interativas e bases unificadas otimizadas para inteligencia de mercado.
 
